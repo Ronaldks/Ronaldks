@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ronaldks
-- 👀 I’m interested in ui/ux design and web development
+- 👀 I’m interested in ui/ux design and Cyber Security
 - 🌱 I’m currently learning Btech in computer science
 - 📫  reach me- ksronald718@gmail.com
 
